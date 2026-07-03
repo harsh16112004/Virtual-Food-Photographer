@@ -1,9 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-
-
 # 🍽️ Lumière – AI Virtual Food Photographer
 
 Lumière is an AI-powered virtual food photography platform that transforms plain-text restaurant menus into stunning, photorealistic food images. Built with React, TypeScript, Express, and Google's Gemini API, it automates menu parsing, prompt generation, image creation, and AI-powered image editing—all within an intuitive web interface.
